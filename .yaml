@@ -1,0 +1,17 @@
+stage:
+set up:
+build:
+model:
+- true:
+- name:
+- "FSM":
+commit:
+- repo:
+- [kenaimarcell]:
+owner:
+- name:
+- "Williams, Marcell Donte":
+- true
+deploy:
+- push code:
+-- force push
